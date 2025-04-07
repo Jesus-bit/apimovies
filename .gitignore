@@ -13,7 +13,6 @@ __pycache__/
 *.log
 # C extensions
 *.so
-Dockerfile
 # Data for analytics
 data/
 logs/
